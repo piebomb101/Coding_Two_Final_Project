@@ -1,6 +1,6 @@
 CODING 2: FINAL PROJECT READ ME
 
-Note to the marker::  My code to be marked is the ofApp.h, ofApp.cpp and also in the ncKinectv2Core.cpp (found in add ons -> ofxNCKinect-master -> src -> core ->), specifically the ofVec4f ncKinectv2Core::bothHands() function.
+Note to the marker::  My code to be marked is the ofApp.h, ofApp.cpp and also in the ncKinectv2Core.cpp and .h function (bottom of repository).
 
 
 Creative Motivations::
